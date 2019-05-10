@@ -1,11 +1,11 @@
 {
   "swagger": "2.0",
   "info": {
-   <mark "version": "Replace with MyService api version (e.g. 2019-10-05)",
+   /* "version": "Replace with MyService api version (e.g. 2019-10-05)",
     "title": "MyService",
     "description": "Description of the new service",
     "x-ms-code-generation-settings": {
-      "name": "MyServiceClient" >
+      "name": "MyServiceClient" */
     }
   },
   "host": "management.azure.com",
